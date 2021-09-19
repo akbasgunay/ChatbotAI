@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\development\\ChatbotAINN\\model.tflearn"
+all_model_checkpoint_paths: "D:\\development\\ChatbotAINN\\model.tflearn"
