@@ -1,2 +1,2 @@
 # ChatbotAI
-A basic nlp text-based chatbot
+a basic nlp text-based chatbot
